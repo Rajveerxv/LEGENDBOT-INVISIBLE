@@ -50,58 +50,7 @@
 
 
 
-- Clone the repo. 
-
-`git clone https://github.com/Rajveerxv/GANTA MERA NIKAL LOWDE.git`
-- Open Cloned Folder.
-
-`cd LEGENDBOT-LI NEW`
-- Create VirtualEnv.
-
-`virtualenv -p /usr/bin/python3 venv`
-
-`. ./venv/bin/activate`
-- Install Requirements.
-
-`pip install -U -r requirements.txt`
-- Generate INVISIBLE_STRING.
-
-`python String.py`
-- Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
-
-`bash ./INVISIBLE/start.sh`
-
------------
-
-
------------
-
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `INVISIBLE_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `LOGGER_ID`  =  Make A Channel And Get it's ID.
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
-
------------
-
-
------------
-
-
-
-
------------
-
-- We won't be responsible for any kind of ban due to this bot.
-- TutorialBot was made for fun purpose and to make group management easier.
-- It's your concern if you spam and gets your account banned.
-- Also, Forks won't be entertained.
-- If you fork this repo and edit plugins, it's your concern for further updates.
-- Forking Repo is fine. But if you edit something we will not provide any help.
-- In short, Fork At Your Own Risk.
-
+-
 -----------
 
 
