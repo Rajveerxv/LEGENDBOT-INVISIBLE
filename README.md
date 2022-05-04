@@ -42,8 +42,8 @@
 
 ---------
 
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Invisible_LegendBot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_Invisible_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)])
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)]t)
 
 -----------
 
